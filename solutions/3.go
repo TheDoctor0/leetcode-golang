@@ -9,12 +9,12 @@ func lengthOfLongestSubstring(s string) int {
             maxLength = max(substringLength, maxLength)
             repeatedPosition = max(position, repeatedPosition)
 
-            charPosition[s[i]] = i + 1
             substringLength = i + 1 - repeatedPosition
         } else {
-            charPosition[s[i]] = i + 1
             substringLength += 1
         }
+
+        charPosition[s[i]] = i + 1
     }
 
     return max(maxLength, substringLength)
