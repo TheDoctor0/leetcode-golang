@@ -8,6 +8,7 @@ LeetCode problems' solutions in Golang.
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/11.go) | 12 ms | 5.6 MB
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/9.go) | 0 ms | 5.0 MB
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/7.go) | 0 ms | 2.2 MB
+6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/6.go) | 0 ms | 4.2 MB
 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/5.go) | 0 ms | 2.2 MB
 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/4.go) | 8 ms | 5.5 MB
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/3.go) | 0 ms | 2.6 MB
