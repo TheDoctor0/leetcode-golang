@@ -5,6 +5,7 @@ LeetCode problems' solutions in Golang.
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/26.go) | 44 ms | 7.5 MB
+13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/13.go) | 0 ms | 3.0 MB
 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/12.go) | 4 ms | 3.4 MB
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/11.go) | 12 ms | 5.6 MB
 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/submissions/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/10.go) | 0 ms | 2.2 MB
