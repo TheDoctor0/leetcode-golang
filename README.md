@@ -5,6 +5,7 @@ LeetCode problems' solutions in Golang.
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/26.go) | 44 ms | 7.5 MB
+16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/16.go) | 4 ms | 2.7 MB
 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/15.go) | 820 ms | 174.0 MB
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/14.go) | 0 ms | 2.4 MB
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/13.go) | 0 ms | 3.0 MB
