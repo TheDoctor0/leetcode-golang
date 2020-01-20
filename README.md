@@ -5,6 +5,7 @@ LeetCode problems' solutions in Golang.
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/26.go) | 44 ms | 7.5 MB
+19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/19.go) | 0 ms | 2.2 MB
 18 | [4Sum](https://leetcode.com/problems/4sum/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/18.go) | 8 ms | 3.1 MB
 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/17.go) | 0 ms | 2.5 MB
 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/16.go) | 4 ms | 2.7 MB
