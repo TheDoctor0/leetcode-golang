@@ -5,6 +5,7 @@ LeetCode problems' solutions in Golang.
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/26.go) | 44 ms | 7.5 MB
+25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/25.go) | 4 ms | 3.7 MB
 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/24.go) | 0 ms | 2.1 MB
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/submissions/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/23.go) | 4 ms | 5.3 MB
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/22.go) | 4 ms | 8.1 MB
