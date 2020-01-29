@@ -4,7 +4,8 @@ LeetCode problems' solutions in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
-27 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/28.go) | 0 ms | 2.4 MB
+29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/29.go) | 0 ms | 2.4 MB
+28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/28.go) | 0 ms | 2.4 MB
 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/27.go) | 0 ms | 2.4 MB
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/26.go) | 44 ms | 7.5 MB
 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/25.go) | 4 ms | 3.7 MB
