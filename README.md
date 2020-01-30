@@ -4,6 +4,7 @@ LeetCode problems' solutions in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/30.go) | 4 ms | 3.2 MB
 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/29.go) | 0 ms | 2.4 MB
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/28.go) | 0 ms | 2.4 MB
 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/27.go) | 0 ms | 2.4 MB
