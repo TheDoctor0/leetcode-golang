@@ -4,6 +4,7 @@ LeetCode problems' solutions in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+31 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/32.go) | 0 ms | 2.8 MB
 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/31.go) | 0 ms | 3.4 MB
 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/30.go) | 4 ms | 3.2 MB
 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/29.go) | 0 ms | 2.4 MB
