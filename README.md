@@ -1,6 +1,6 @@
 LeetCode
 ========
-LeetCode problems' solutions in Golang.
+Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
