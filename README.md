@@ -4,6 +4,7 @@ LeetCode problems' solutions in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/34.go) | 8 ms | 4.1 MB
 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/33.go) | 0 ms | 2.6 MB
 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/32.go) | 0 ms | 2.8 MB
 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/31.go) | 0 ms | 3.4 MB
