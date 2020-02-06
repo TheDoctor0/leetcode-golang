@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/37.go) | 0 ms | 2.1 MB
 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/36.go) | 0 ms | 2.8 MB
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/35.go) | 0 ms | 3.1 MB
 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/34.go) | 8 ms | 4.1 MB
