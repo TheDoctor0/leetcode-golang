@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/40.go) | 0 ms | 3.1 MB
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/39.go) | 0 ms | 3.1 MB
 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/38.go) | 0 ms | 2.1 MB
 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/37.go) | 0 ms | 2.1 MB
