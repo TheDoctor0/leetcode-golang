@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/43.go) | 0 ms | 2.2 MB
 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/42.go) | 0 ms | 2.8 MB
 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/41.go) | 0 ms | 2.2 MB
 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/40.go) | 0 ms | 3.1 MB
