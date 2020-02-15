@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/46.go) | 0 ms | 2.6 MB
 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/45.go) | 4 ms | 4.3 MB
 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/44.go) | 0 ms | 3.1 MB
 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/43.go) | 0 ms | 2.2 MB
