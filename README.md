@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/49.go) | 16 ms | 6.8 MB
 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/48.go) | 0 ms | 2.2 MB
 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/47.go) | 0 ms | 3.7 MB
 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/46.go) | 0 ms | 2.6 MB
