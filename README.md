@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+51 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/51.go) | 0 ms | 3.2 MB
 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/50.go) | 0 ms | 2.0 MB
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/49.go) | 16 ms | 6.8 MB
 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/48.go) | 0 ms | 2.2 MB
