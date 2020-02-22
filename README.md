@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/53.go) | 4 ms | 3.3 MB
 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/52.go) | 0 ms | 1.9 MB
 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/51.go) | 0 ms | 3.2 MB
 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/50.go) | 0 ms | 2.0 MB
