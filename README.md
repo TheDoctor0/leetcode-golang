@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/55.go) | 4 ms | 4.2 MB
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/54.go) | 0 ms | 2.0 MB
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/53.go) | 4 ms | 3.3 MB
 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/52.go) | 0 ms | 1.9 MB
