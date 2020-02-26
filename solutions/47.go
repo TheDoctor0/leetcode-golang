@@ -12,6 +12,7 @@ func permuteUnique(nums []int) [][]int {
     sort.Ints(nums)
 
     result := make([][]int, 0)
+
     backtrackUnique(nums, nil, &result)
 
     return result

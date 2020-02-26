@@ -3,7 +3,7 @@ package solutions
 func solveNQueens(n int) [][]string {
     var result = make([][]string, 0)
 
-    backtrack(&result, makeEmptyBoard(n), n, 0, 0, 0, 0)
+    backtrackBoard(&result, makeEmptyBoard(n), n, 0, 0, 0, 0)
 
     return result
 }
@@ -22,7 +22,7 @@ func makeEmptyBoard(n int) [][]byte {
     return board
 }
 
-func backtrack(result *[][]string, board [][]byte, n int, row int, column int, left int, right int) {
+func backtrackBoard(result *[][]string, board [][]byte, n int, row int, column int, left int, right int) {
     if row == n {
         temp := make([]string, n)
 
@@ -41,7 +41,7 @@ func backtrack(result *[][]string, board [][]byte, n int, row int, column int, l
         if column & bit == 0 && left & bit == 0 && right & bit == 0 {
             board[row][i] = 'Q'
 
-            backtrack(result, board, n, row + 1, column | bit, (left | bit) << 1, (right | bit) >> 1)
+            backtrackBoard(result, board, n, row + 1, column | bit, (left | bit) << 1, (right | bit) >> 1)
 
             board[row][i] = '.'
         }
