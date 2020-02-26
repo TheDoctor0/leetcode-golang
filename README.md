@@ -4,7 +4,8 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
-56 | [Jump Game](https://leetcode.com/problems/merge-intervals/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/56.go) | 4 ms | 4.7 MB
+57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/57.go) | 8 ms | 4.8 MB
+56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/56.go) | 4 ms | 4.7 MB
 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/55.go) | 4 ms | 4.2 MB
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/54.go) | 0 ms | 2.0 MB
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/53.go) | 4 ms | 3.3 MB
