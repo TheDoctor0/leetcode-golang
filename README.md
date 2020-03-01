@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/61.go) | 0 ms | 2.5 MB
 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/60.go) | 0 ms | 2.0 MB
 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/59.go) | 0 ms | 2.1 MB
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/58.go) | 0 ms | 2.1 MB
