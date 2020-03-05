@@ -4,7 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
-65 | [Valid Number](https://leetcode.com/problems/valid-number/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/65.go) | 0 ms | 2.2 MB
+65 | [Valid Number](https://leetcode.com/problems/valid-number/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/65.go) | 0 ms | 2.3 MB
 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/64.go) | 8 ms | 3.9 MB
 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/63.go) | 0 ms | 2.7 MB
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/62.go) | 0 ms | 2.0 MB
