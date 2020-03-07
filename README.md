@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+67 | [Add binary](https://leetcode.com/problems/add-binary/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/67.go) | 0 ms | 2.6 MB
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/66.go) | 0 ms | 2.0 MB
 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/65.go) | 0 ms | 2.3 MB
 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/64.go) | 8 ms | 3.9 MB
