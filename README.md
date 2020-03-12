@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/72.go) | 0 ms | 2.7 MB
 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/71.go) | 0 ms | 3.0 MB
 70 | [Climb Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/70.go) | 0 ms | 2.0 MB
 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/69.go) | 0 ms | 2.2 MB
