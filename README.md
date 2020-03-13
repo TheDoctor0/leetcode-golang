@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/73.go) | 12 ms | 6.0 MB
 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/72.go) | 0 ms | 2.7 MB
 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/71.go) | 0 ms | 3.0 MB
 70 | [Climb Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/70.go) | 0 ms | 2.0 MB
