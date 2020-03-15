@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/75.go) | 0 ms | 2.1 MB
 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/74.go) | 4 ms | 3.8 MB
 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/73.go) | 12 ms | 6.0 MB
 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/72.go) | 0 ms | 2.7 MB
