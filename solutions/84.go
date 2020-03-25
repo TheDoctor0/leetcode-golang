@@ -4,7 +4,7 @@ func largestRectangleArea(heights []int) int {
     area := 0
 
     for i := 1; i < len(heights); i++ {
-        if heights[i] >= heights[i-1] {
+        if heights[i] >= heights[i - 1] {
             continue
         }
 
