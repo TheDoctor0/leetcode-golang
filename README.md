@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+86 | [Partition List](https://leetcode.com/problems/partition-list/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/86.go) | 0 ms | 2.4 MB
 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/85.go) | 0 ms | 3.4 MB
 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/84.go) | 8 ms | 4.4 MB
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/83.go) | 4 ms | 3.1 MB
