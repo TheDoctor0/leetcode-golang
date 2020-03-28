@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/88.go) | 0 ms | 2.3 MB
 87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/87.go) | 0 ms | 2.1 MB
 86 | [Partition List](https://leetcode.com/problems/partition-list/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/86.go) | 0 ms | 2.4 MB
 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/85.go) | 0 ms | 3.4 MB
