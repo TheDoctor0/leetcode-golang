@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/91.go) | 0 ms | 2.0 MB
 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/90.go) | 0 ms | 2.4 MB
 89 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/89.go) | 0 ms | 2.2 MB
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/88.go) | 0 ms | 2.3 MB
