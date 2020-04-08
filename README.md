@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/99.go) | 12 ms | 8.1 MB
 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/98.go) | 4 ms | 5.5 MB
 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/97.go) | 0 ms | 2.4 MB
 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/96.go) | 0 ms | 1.9 MB
