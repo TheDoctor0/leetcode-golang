@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/106.go) | 20 ms | 9.7 MB
 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/105.go) | 16 ms | 9.8 MB
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/104.go) | 4 ms | 4.4 MB
 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/103.go) | 0 ms | 2.5 MB
