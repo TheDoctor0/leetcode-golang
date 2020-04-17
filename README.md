@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/108.go) | 92 ms | 185.1 MB
 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/107.go) | 0 ms | 2.8 MB
 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/106.go) | 20 ms | 9.7 MB
 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/105.go) | 16 ms | 9.8 MB
