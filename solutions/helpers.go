@@ -15,3 +15,11 @@ func max(a int, b int) int {
 
     return b
 }
+
+func abs(number int) int {
+    if number < 0 {
+        return -number
+    }
+
+    return number
+}

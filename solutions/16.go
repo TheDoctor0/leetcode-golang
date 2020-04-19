@@ -31,11 +31,3 @@ func threeSumClosest(nums []int, target int) int {
 
     return result
 }
-
-func abs(in int) int {
-    if in < 0 {
-        return -in
-    }
-
-    return in
-}
