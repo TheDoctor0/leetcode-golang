@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/111.go) | 4 ms | 5.3 MB
 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/110.go) | 4 ms | 5.7 MB
 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/109.go) | 488 ms | 154.6 MB
 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/108.go) | 92 ms | 185.1 MB
