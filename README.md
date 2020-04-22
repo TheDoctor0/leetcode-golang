@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/113.go) | 4 ms | 4.4 MB
 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/112.go) | 4 ms | 4.8 MB
 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/111.go) | 4 ms | 5.3 MB
 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/110.go) | 4 ms | 5.7 MB
