@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+120 | [Triangle](https://leetcode.com/problems/triangle/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/120.go) | 4 ms | 3.1 MB
 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/119.go) | 0 ms | 2.0 MB
 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/118.go) | 0 ms | 2.0 MB
 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/117.go) | 4 ms | 5.9 MB
