@@ -12,7 +12,7 @@ func maxProfit(prices []int) int {
         secondSell = max(secondSell, secondBuy + price)
         secondBuy = max(secondBuy, firstSell - price)
         firstSell = max(firstSell, firstBuy + price)
-        firstBuy = max(firstBuy, - price)
+        firstBuy = max(firstBuy, -price)
     }
 
     return secondSell

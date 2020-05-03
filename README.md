@@ -4,7 +4,8 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
-123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii-i/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/123.go) | 4 ms | 3.1 MB
+124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/124.go) | 16 ms | 6.7 MB
+123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/123.go) | 4 ms | 3.1 MB
 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/122.go) | 4 ms | 3.1 MB
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/121.go) | 4 ms | 3.1 MB
 120 | [Triangle](https://leetcode.com/problems/triangle/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/120.go) | 4 ms | 3.1 MB

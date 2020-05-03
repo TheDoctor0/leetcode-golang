@@ -12,7 +12,7 @@ func numDistinct(s string, t string) int {
     result := make([]int, len(t))
 
     for i := range s {
-        var previous int = 1
+        previous := 1
 
         for j := range t {
             current := result[j]
