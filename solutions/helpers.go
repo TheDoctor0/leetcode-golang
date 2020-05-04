@@ -35,3 +35,15 @@ func minInArray(values []int) int {
 
     return min
 }
+
+func isChar(char byte) bool {
+    return ('0' <= char && char <= '9') || ('A' <= char && char <= 'Z') || ('a' <= char && char <= 'z')
+}
+
+func toLower(char byte) byte {
+    if 'A' <= char && char <= 'Z' {
+        return char - 'A' + 'a'
+    }
+
+    return char
+}
