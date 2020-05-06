@@ -4,7 +4,6 @@ type graphNode struct {
     parentNode *graphNode
     word       string
 }
-
 type void struct{}
 
 var member void
@@ -17,9 +16,7 @@ func findLadders(startWord string, endWord string, words []string) (ladders [][]
         dictionary[words[wordIndex]] = member
     }
 
-    _, dictionaryEndWord := dictionary[endWord]
-
-    if startWord == endWord || !dictionaryEndWord {
+    if _, ok := dictionary[endWord]; !ok || startWord == endWord {
         return make([][]string, 0)
     }
 
@@ -112,9 +109,7 @@ func nextStates(currentNode graphNode, index int, endWord string, dictionary map
             return result
         }
 
-        _, ok := dictionary[newState]
-
-        if ok {
+        if _, ok := dictionary[newState]; ok {
             mapNewStates = addToMap(mapNewStates, graphNode{parentNode: &currentNode, word: newState})
         }
     }
@@ -126,27 +121,22 @@ func hasConverged(sourceMap map[string][]graphNode, targetMap map[string][]graph
     converged := false
 
     for word := range sourceMap {
-        _, ok := targetMap[word]
-
-        if ok {
+        if _, ok := targetMap[word]; ok {
             converged = true
+
             break
         }
     }
 
     if converged {
         for word := range sourceMap {
-            _, ok := targetMap[word]
-
-            if !ok {
+            if _, ok := targetMap[word]; !ok {
                 delete(sourceMap, word)
             }
         }
 
         for word := range targetMap {
-            _, ok := sourceMap[word]
-
-            if !ok {
+            if _, ok := sourceMap[word]; !ok {
                 delete(targetMap, word)
             }
         }
