@@ -4,7 +4,8 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
-127 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/126.go) | 48 ms | 6.4 MB
+127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/127.go) | 52 ms | 7.6 MB
+126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/126.go) | 48 ms | 6.4 MB
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/125.go) | 0 ms | 2.7 MB
 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/124.go) | 16 ms | 6.7 MB
 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/123.go) | 4 ms | 3.1 MB
