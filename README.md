@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/129.go) | 0 ms | 2.4 MB
 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/128.go) | 4 ms | 3.9 MB
 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/127.go) | 52 ms | 7.6 MB
 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/126.go) | 48 ms | 6.4 MB
