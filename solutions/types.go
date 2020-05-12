@@ -1,5 +1,10 @@
 package solutions
 
+type GraphNode struct {
+    Val int
+    Neighbors []*GraphNode
+}
+
 type ListNode struct {
     Val int
     Next *ListNode

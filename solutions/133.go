@@ -1,10 +1,5 @@
 package solutions
 
-type GraphNode struct {
-    Val int
-    Neighbors []*GraphNode
-}
-
 func cloneGraph(node *GraphNode) *GraphNode {
     if node == nil {
         return nil
