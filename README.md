@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+135 | [Candy](https://leetcode.com/problems/candy/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/135.go) | 16 ms | 6.0 MB
 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/134.go) | 4 ms | 3.0 MB
 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/133.go) | 0 ms | 2.7 MB
 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/132.go) | 8 ms | 5.2 MB
