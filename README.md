@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/138.go) | 0 ms | 3.4 MB
 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/137.go) | 4 ms | 3.6 MB
 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/136.go) | 8 ms | 4.7 MB
 135 | [Candy](https://leetcode.com/problems/candy/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/135.go) | 16 ms | 6.0 MB

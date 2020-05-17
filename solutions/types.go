@@ -21,4 +21,5 @@ type Node struct {
     Left *Node
     Right *Node
     Next *Node
+    Random *Node
 }
