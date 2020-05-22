@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/143.go) | 8 ms | 5.4 MB
 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/142.go) | 4 ms | 3.8 MB
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/141.go) | 4 ms | 3.8 MB
 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/140.go) | 4 ms | 2.6 MB
