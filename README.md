@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/submissions/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/147.go) | 4 ms | 3.3 MB
 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/146.go) | 108 ms | 16.8 MB
 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/145.go) | 0 ms | 2.0 MB
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/144.go) | 0 ms | 2.0 MB
