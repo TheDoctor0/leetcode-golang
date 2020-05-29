@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/150.go) | 4 ms | 4.2 MB
 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/149.go) | 56 ms | 6.8 MB
 148 | [Insertion Sort List](https://leetcode.com/problems/sort-list/submissions/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/148.go) | 12 ms | 5.1 MB
 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/submissions/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/147.go) | 4 ms | 3.3 MB
