@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/153.go) | 0 ms | 2.5 MB
 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/152.go) | 0 ms | 2.7 MB
 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/151.go) | 0 ms | 3.4 MB
 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/150.go) | 4 ms | 4.2 MB
