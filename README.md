@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/162.go) | 0 ms | 2.8 MB
 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/160.go) | 36 ms | 8.4 MB
 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/155.go) | 16 ms | 7.8 MB
 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/154.go) | 4 ms | 3.1 MB
