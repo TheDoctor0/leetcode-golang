@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/165.go) | 0 ms | 2.0 MB
 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/164.go) | 4 ms | 3.4 MB
 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/162.go) | 0 ms | 2.8 MB
 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/160.go) | 36 ms | 8.4 MB
