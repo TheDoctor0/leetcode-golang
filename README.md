@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/166.go) | 0 ms | 2.1 MB
 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/165.go) | 0 ms | 2.0 MB
 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/164.go) | 4 ms | 3.4 MB
 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/162.go) | 0 ms | 2.8 MB
