@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/171.go) | 0 ms | 2.2 MB
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/169.go) | 16 ms | 6.0 MB
 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/168.go) | 0 ms | 2.0 MB
 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/167.go) | 4 ms | 3.0 MB
