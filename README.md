@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/172.go) | 0 ms | 2.0 MB
 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/171.go) | 0 ms | 2.2 MB
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/169.go) | 16 ms | 6.0 MB
 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/168.go) | 0 ms | 2.0 MB
