@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/173.go) | 40 ms | 12.6 MB
 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/172.go) | 0 ms | 2.0 MB
 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/171.go) | 0 ms | 2.2 MB
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/169.go) | 16 ms | 6.0 MB

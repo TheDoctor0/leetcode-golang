@@ -1,5 +1,9 @@
 package solutions
 
+type BSTIterator struct {
+    stack []*TreeNode
+}
+
 type GraphNode struct {
     Val int
     Neighbors []*GraphNode
