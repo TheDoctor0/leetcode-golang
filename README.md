@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+180 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/187.go) | 4 ms | 7.2 MB
 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/179.go) | 4 ms | 2.7 MB
 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/submissions/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/174.go) | 4 ms | 3.4 MB
 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/173.go) | 40 ms | 12.6 MB
