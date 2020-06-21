@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/190.go) | 0 ms | 2.0 MB
 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/190.go) | 0 ms | 2.5 MB
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/189.go) | 4 ms | 3.2 MB
 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/188.go) | 4 ms | 3.8 MB
