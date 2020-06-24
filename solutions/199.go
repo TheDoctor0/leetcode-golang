@@ -1,11 +1,11 @@
 package solutions
 
 func rightSideView(root *TreeNode) []int {
-    var result = make([]int, 0)
-
     if root == nil {
         return nil
     }
+
+    var result = make([]int, 0)
 
     viewRightSide(&result, root, 0)
 
