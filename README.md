@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/201.go) | 8 ms | 6.1 MB
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/200.go) | 0 ms | 2.2 MB
 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/199.go) | 0 ms | 2.2 MB
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/198.go) | 0 ms | 2.0 MB
