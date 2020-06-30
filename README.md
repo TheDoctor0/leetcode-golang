@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/206.go) | 0 ms | 2.6 MB
 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/205.go) | 0 ms | 2.7 MB
 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/204.go) | 4 ms | 4.9 MB
 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/203.go) | 8 ms | 4.7 MB
