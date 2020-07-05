@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/211.go) | 88 ms | 14.6 MB
 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/210.go) | 16 ms | 6.3 MB
 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/209.go) | 8 ms | 3.9 MB
 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/208.go) | 48 ms | 15.9 MB
