@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/214.go) | 0 ms | 3.3 MB
 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/213.go) | 0 ms | 2.1 MB
 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/212.go) | 28 ms | 14.8 MB
 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/211.go) | 88 ms | 14.6 MB
