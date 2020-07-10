@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/216.go) | 0 ms | 2.1 MB
 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/215.go) | 8 ms | 3.6 MB
 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/214.go) | 0 ms | 3.3 MB
 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/213.go) | 0 ms | 2.1 MB
