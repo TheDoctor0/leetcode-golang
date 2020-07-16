@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/222.go) |16 ms | 6.4 MB
 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/221.go) | 0 ms | 3.5 MB
 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/220.go) | 4 ms | 4.1 MB
 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/219.go) | 12 ms | 6.5 MB
