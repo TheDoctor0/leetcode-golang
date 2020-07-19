@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/225.go) | 0 ms | 2.0 MB
 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/224.go) | 0 ms | 3.2 MB
 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/223.go) | 12 ms | 6.1 MB
 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/222.go) | 16 ms | 6.4 MB
