@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/226.go) | 0 ms | 2.2 MB
 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/225.go) | 0 ms | 2.0 MB
 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/224.go) | 0 ms | 3.2 MB
 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/223.go) | 12 ms | 6.1 MB
