@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/231.go) | 0 ms | 2.2 MB
 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/230.go) | 6 ms | 6.0 MB
 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/229.go) | 12 ms | 5.1 MB
 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/228.go) | 0 ms | 2.0 MB
