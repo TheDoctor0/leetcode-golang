@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/233.go) | 0 ms | 2.1 MB
 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/232.go) | 0 ms | 2.0 MB
 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/231.go) | 0 ms | 2.2 MB
 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/230.go) | 6 ms | 6.0 MB
