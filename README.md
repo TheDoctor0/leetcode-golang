@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/236.go) | 20 ms | 6.8 MB
 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/234.go) | 12 ms | 6.1 MB
 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/233.go) | 0 ms | 2.1 MB
 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/232.go) | 0 ms | 2.0 MB
