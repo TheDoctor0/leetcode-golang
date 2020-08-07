@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/258.go) | 0 ms | 2.2 MB 
 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/257.go) | 0 ms | 2.3 MB 
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/242.go) | 0 ms | 3.0 MB 
 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/241.go) | 0 ms | 2.4 MB 
