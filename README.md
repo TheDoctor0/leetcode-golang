@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/264.go) | 0 ms | 4.1 MB 
 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/263.go) | 0 ms | 2.1 MB 
 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/260.go) | 4 ms | 4.2 MB 
 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/258.go) | 0 ms | 2.2 MB 
