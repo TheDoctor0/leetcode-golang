@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/275.go) | 12 ms | 6.2 MB 
 274 | [H-Index](https://leetcode.com/problems/h-index/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/274.go) | 0 ms | 2.3 MB 
 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/273.go) | 0 ms | 6.1 MB 
 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/268.go) | 16 ms | 6.0 MB 
