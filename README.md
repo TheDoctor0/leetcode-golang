@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/279.go) | 36 ms | 5.8 MB 
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/278.go) | 0 ms | 1.9 MB 
 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/275.go) | 12 ms | 6.2 MB 
 274 | [H-Index](https://leetcode.com/problems/h-index/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/274.go) | 0 ms | 2.3 MB 
