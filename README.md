@@ -4,23 +4,24 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
-283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/283.go) | 4 ms | 3.8 MB 
-282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/282.go) | 12 ms | 3.5 MB 
-279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/279.go) | 36 ms | 5.8 MB 
-278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/278.go) | 0 ms | 1.9 MB 
-275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/275.go) | 12 ms | 6.2 MB 
-274 | [H-Index](https://leetcode.com/problems/h-index/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/274.go) | 0 ms | 2.3 MB 
-273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/273.go) | 0 ms | 6.1 MB 
-268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/268.go) | 16 ms | 6.0 MB 
-264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/264.go) | 0 ms | 4.1 MB 
-263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/263.go) | 0 ms | 2.1 MB 
-260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/260.go) | 4 ms | 4.2 MB 
-258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/258.go) | 0 ms | 2.2 MB 
-257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/257.go) | 0 ms | 2.3 MB 
-242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/242.go) | 0 ms | 3.0 MB 
-241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/241.go) | 0 ms | 2.4 MB 
-240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/240.go) | 20 ms | 6.2 MB 
-239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/239.go) | 40 ms | 7.2 MB 
+284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/284.go) | 0 ms | 2.5 MB
+283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/283.go) | 4 ms | 3.8 MB
+282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/282.go) | 12 ms | 3.5 MB
+279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/279.go) | 36 ms | 5.8 MB
+278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/278.go) | 0 ms | 1.9 MB
+275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/275.go) | 12 ms | 6.2 MB
+274 | [H-Index](https://leetcode.com/problems/h-index/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/274.go) | 0 ms | 2.3 MB
+273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/273.go) | 0 ms | 6.1 MB
+268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/268.go) | 16 ms | 6.0 MB
+264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/264.go) | 0 ms | 4.1 MB
+263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/263.go) | 0 ms | 2.1 MB
+260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/260.go) | 4 ms | 4.2 MB
+258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/258.go) | 0 ms | 2.2 MB
+257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/257.go) | 0 ms | 2.3 MB
+242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/242.go) | 0 ms | 3.0 MB
+241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/241.go) | 0 ms | 2.4 MB
+240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/240.go) | 20 ms | 6.2 MB
+239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/239.go) | 40 ms | 7.2 MB
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/238.go) | 0 ms | 2.9 MB
 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/237.go) | 0 ms | 2.9 MB
 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/236.go) | 20 ms | 7.8 MB
