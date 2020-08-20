@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/287.go) | 4 ms | 3.8 MB
 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/284.go) | 0 ms | 2.5 MB
 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/283.go) | 4 ms | 3.8 MB
 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/282.go) | 12 ms | 3.5 MB
