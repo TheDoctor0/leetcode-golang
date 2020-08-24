@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/295.go) | 104 ms | 16.3 MB
 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/292.go) | 0 ms | 2.0 MB
 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/290.go) | 0 ms | 2.0 MB
 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/289.go) | 0 ms | 2.0 MB
