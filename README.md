@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/299.go) | 0 ms | 2.4 MB
 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/299.go) | 0 ms | 2.2 MB
 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/297.go) | 228 ms | 183.3 MB
 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/295.go) | 104 ms | 16.3 MB
