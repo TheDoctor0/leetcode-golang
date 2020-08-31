@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+306 | [Additive Number](https://leetcode.com/problems/additive-number/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/306.go) | 0 ms | 1.9 MB
 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/304.go) | 36 ms | 8.2 MB
 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/303.go) | 28 ms | 8.3 MB
 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/301.go) | 0 ms | 2.4 MB
