@@ -35,7 +35,7 @@ func isValidAdditiveNumber(first, second, index, length int, s string) bool {
         return true
     }
 
-    next := strconv.Itoa(first+second)
+    next := strconv.Itoa(first + second)
 
     if index + len(next) > length {
         return false
