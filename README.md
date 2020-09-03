@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/310.go) | 36 ms | 7.3 MB
 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/309.go) | 0 ms | 2.4 MB
 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/307.go) | 60 ms | 8.8 MB
 306 | [Additive Number](https://leetcode.com/problems/additive-number/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/306.go) | 0 ms | 1.9 MB
