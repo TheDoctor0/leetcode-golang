@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/313.go) | 8 ms | 3.1 MB
 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/312.go) | 4 ms | 2.9 MB
 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/310.go) | 36 ms | 7.3 MB
 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/309.go) | 0 ms | 2.4 MB
