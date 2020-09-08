@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/318.go) | 8 ms | 6.0 MB
 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/316.go) | 0 ms | 2.1 MB
 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/315.go) | 8 ms | 6.4 MB
 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/313.go) | 8 ms | 3.1 MB
