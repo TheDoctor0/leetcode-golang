@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/322.go) | 28 ms | 6.2 MB
 321 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/321.go) | 8 ms | 6.5 MB
 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/319.go) | 0 ms | 1.9 MB
 318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/318.go) | 8 ms | 6.0 MB
