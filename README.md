@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+327 | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/327.go) | 12 ms | 6.1 MB
 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/326.go) | 16 ms | 6.1 MB
 324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/324.go) | 20 ms | 6.2 MB
 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/322.go) | 28 ms | 6.2 MB
