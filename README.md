@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+330 | [Patching Array](https://leetcode.com/problems/patching-array/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/330.go) | 4 ms | 3.4 MB
 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/329.go) | 32 ms | 6.3 MB
 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/328.go) | 4 ms | 3.3 MB
 327 | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/327.go) | 12 ms | 6.1 MB
