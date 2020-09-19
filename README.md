@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/332.go) | 8 ms | 6.0 MB
 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/331.go) | 0 ms | 2.7 MB
 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/330.go) | 4 ms | 3.4 MB
 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/329.go) | 32 ms | 6.3 MB
