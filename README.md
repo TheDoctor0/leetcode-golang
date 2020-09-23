@@ -4,7 +4,8 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
-335 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/335.go) | 0 ms | 2.0 MB
+336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/336.go) | 132 ms | 10.8 MB
+335 | [Self Crossing](https://leetcode.com/problems/self-crossing/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/335.go) | 0 ms | 2.0 MB
 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/334.go) | 4 ms | 3.0 MB
 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/332.go) | 8 ms | 6.0 MB
 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/331.go) | 0 ms | 2.7 MB
