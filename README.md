@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/344.go) | 32 ms | 6.3 MB
 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/343.go) | 0 ms | 1.9 MB
 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/342.go) | 0 ms | 2.1 MB
 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/341.go) | 4 ms | 5.2 MB
