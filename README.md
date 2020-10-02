@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/347.go) | 4 ms | 3.0 MB
 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/346.go) | 12 ms | 5.8 MB
 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/345.go) | 0 ms | 4.0 MB
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/344.go) | 32 ms | 6.3 MB
