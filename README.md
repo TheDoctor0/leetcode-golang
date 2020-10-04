@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+352 | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/352.go) | 36 ms | 16.9 MB
 350 | [Intersection of Two Arrays I](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/350.go) | 0 ms | 2.9 MB
 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/349.go) | 4 ms | 3.0 MB
 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/347.go) | 12 ms | 5.8 MB
