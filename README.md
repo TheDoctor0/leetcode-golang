@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/355.go) | 44 ms | 11.5 MB
 354 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/354.go) | 24 ms | 6.2 MB
 352 | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/352.go) | 36 ms | 16.9 MB
 350 | [Intersection of Two Arrays I](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/350.go) | 0 ms | 2.9 MB
