@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+363 | [Count Numbers with Unique Digits](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/363.go) | 28 ms | 4.5 MB
 357 | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/357.go) | 0 ms | 1.9 MB
 355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/355.go) | 44 ms | 11.5 MB
 354 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/354.go) | 24 ms | 6.2 MB
