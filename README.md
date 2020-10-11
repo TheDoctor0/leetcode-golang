@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/368.go) | 44 ms | 5.1 MB
 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/367.go) | 0 ms | 1.9 MB
 365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/365.go) | 0 ms | 1.9 MB
 363 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/363.go) | 28 ms | 4.5 MB
