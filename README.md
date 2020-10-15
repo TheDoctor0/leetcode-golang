@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/374.go) | 0 ms | 1.9 MB
 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/373.go) | 4 ms | 4.0 MB
 372 | [Super Pow](https://leetcode.com/problems/super-pow/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/372.go) | 12 ms | 3.9 MB
 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/371.go) | 0 ms | 2.0 MB
