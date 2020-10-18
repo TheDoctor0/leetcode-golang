@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/377.go) | 0 ms | 2.1 MB
 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/376.go) | 0 ms | 2.1 MB
 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/375.go) | 12 ms | 4.7 MB
 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/374.go) | 0 ms | 1.9 MB
