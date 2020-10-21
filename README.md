@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/381.go) | 28 ms | 7.7 MB
 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/380.go) | 28 ms | 7.6 MB
 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/378.go) | 20 ms | 6.3 MB
 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/377.go) | 0 ms | 2.1 MB
