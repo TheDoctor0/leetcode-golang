@@ -4,7 +4,8 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
-383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | eASY | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/383.go) | 4 ms | 4.3 MB
+384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/384.go) | 52 ms | 8.8 MB
+383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/383.go) | 4 ms | 4.3 MB
 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/382.go) | 12 ms | 7.1 MB
 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/381.go) | 28 ms | 7.7 MB
 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/380.go) | 28 ms | 7.6 MB
