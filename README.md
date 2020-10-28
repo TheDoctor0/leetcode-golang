@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/388.go) | 0 ms | 2.0 MB
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/387.go) | 8 ms | 5.7 MB
 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/386.go) | 8 ms | 6.3 MB
 385 | [Mini Parser](https://leetcode.com/problems/mini-parser/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/385.go) | 4 ms | 5.1 MB
