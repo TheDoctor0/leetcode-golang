@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/393.go) | 8 ms | 5.4 MB
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/392.go) | 0 ms | 2.0 MB
 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/390.go) | 0 ms | 2.8 MB
 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/389.go) | 0 ms | 2.2 MB
