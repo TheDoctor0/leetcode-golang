@@ -6,11 +6,11 @@ func validUtf8(data []int) bool {
 
     for _, value := range data {
         if currentBits == 0 {
-            mask := 1 << startBit
+            mask := 1<<startBit
 
             for value & mask > 0 {
                 startBit--
-                mask = 1 << startBit
+                mask = 1<<startBit
                 currentBits++
 
                 if currentBits > 4 {
