@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/397.go) | 9 ms | 1.9 MB
 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/396.go) | 4 ms | 3.9 MB
 395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/395.go) | 0 ms | 3.3 MB
 394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/394.go) | 0 ms | 2.0 MB
