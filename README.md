@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/401.go) | 0 ms | 2.0 MB
 400 | [Nth Digit](https://leetcode.com/problems/nth-digit/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/400.go) | 0 ms | 2.0 MB
 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/399.go) | 0 ms | 2.1 MB
 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/398.go) | 96 ms | 7.9 MB
