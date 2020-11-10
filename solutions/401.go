@@ -35,11 +35,11 @@ func generateValueMap(limit int) map[int][]int{
         k := i
 
         for k > 0 {
-            if k % 2==1{
+            if k % 2 == 1 {
                 count++
             }
 
-            k /=2
+            k /= 2
         }
 
         if _, ok := valueMap[count]; !ok {
