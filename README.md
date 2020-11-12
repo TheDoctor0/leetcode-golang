@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/404.go) | 0 ms | 2.7 MB
 403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/403.go) | 64 ms | 6.9 MB
 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/402.go) | 0 ms | 2.5 MB
 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/401.go) | 0 ms | 2.0 MB
