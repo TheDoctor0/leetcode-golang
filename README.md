@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/412.go) | 4 ms | 4.1 MB
 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/410.go) | 0 ms | 2.1 MB
 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/409.go) | 0 ms | 2.1 MB
 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/406.go) | 16 ms | 5.9 MB
