@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/416.go) | 8 ms | 2.5 MB
 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/415.go) | 0 ms | 2.5 MB
 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/414.go) | 0 ms | 3.0 MB
 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/413.go) | 0 ms | 2.2 MB
