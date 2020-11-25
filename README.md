@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/423.go) | 0 ms | 5.1 MB
 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/421.go) | 88 ms | 6.8 MB
 419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/419.go) | 0 ms | 2.4 MB
 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/417.go) | 32 ms | 6.3 MB
