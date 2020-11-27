@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+427 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/427.go) | 8 ms | 6.1 MB
 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/424.go) | 0 ms | 2.6 MB
 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/423.go) | 0 ms | 5.1 MB
 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/421.go) | 88 ms | 6.8 MB
