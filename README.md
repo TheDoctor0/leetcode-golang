@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/433.go) | 0 ms | 1.9 MB
 432 | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/432.go) | 44 ms | 14.0 MB
 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/430.go) | 0 ms | 2.7 MB
 429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/429.go) | 0 ms | 4.2 MB
