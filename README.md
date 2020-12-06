@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/438.go) | 0 ms | 5.1 MB
 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/437.go) | 4 ms | 5.0 MB
 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/436.go) | 40 ms | 6.7 MB
 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/435.go) | 4 ms | 4.1 MB
