@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/442.go) | 52 ms | 6.9 MB
 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/441.go) | 4 ms | 2.3 MB
 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/438.go) | 0 ms | 5.1 MB
 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/437.go) | 4 ms | 5.0 MB
