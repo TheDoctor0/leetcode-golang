@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/445.go) | 8 ms | 6.1 MB
 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/443.go) | 4 ms | 2.9 MB
 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/442.go) | 52 ms | 6.9 MB
 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/441.go) | 4 ms | 2.3 MB
