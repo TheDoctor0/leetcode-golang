@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/452.go) | 72 ms | 6.9 MB
 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/451.go) | 4 ms | 4.8 MB
 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/450.go) | 348 ms | 121.3 MB
 449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/449.go) | 180 ms | 57.9 MB
