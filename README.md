@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+456 | [132 Pattern](https://leetcode.com/problems/132-pattern/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/456.go) | 8 ms | 5.6 MB
 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/455.go) | 32 ms | 6.0 MB
 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/454.go) | 52 ms | 18.5 MB
 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/453.go) | 32 ms | 6.4 MB
