@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/459.go) | 4 ms | 6.0 MB
 458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/458.go) | 0 ms | 1.9 MB
 457 | [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/457.go) | 0 ms | 2.0 MB
 456 | [132 Pattern](https://leetcode.com/problems/132-pattern/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/456.go) | 8 ms | 5.6 MB
