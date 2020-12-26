@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/462.go) | 8 ms | 4.5 MB
 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/461.go) | 0 ms | 2.0 MB
 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/460.go) | 136 ms | 16.8 MB
 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/459.go) | 4 ms | 6.0 MB
