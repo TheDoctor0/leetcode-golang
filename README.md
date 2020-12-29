@@ -4,6 +4,7 @@ Solutions for LeetCode problems written in Golang.
 
 | # | Question | Difficulty | Solution | Runtime | Memory |
 |---| ----- | -------- | ---------- | ---------- | ---------- |
+466 | [Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/) | Hard | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/466.go) | 2152 ms | 1.9 MB
 464 | [Can I Win](https://leetcode.com/problems/can-i-win/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/464.go) | 8 ms |12.8 MB
 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | Easy | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/463.go) | 56 ms | 6.5 MB
 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | [Code](https://github.com/TheDoctor0/leetcode-golang/blob/master/solutions/462.go) | 8 ms | 4.5 MB
